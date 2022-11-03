@@ -9,7 +9,6 @@
     <a href="https://y-halfmoon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>    
     <a href="https://www.notion.so/HalfMoon-s-Notion-4f7c7f35e48f4560993195814646b755" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
     
-    <br>
 <br><br>
 <Strong>📧Email📧</Strong><br>yunsh1008@naver.com<br>
 
